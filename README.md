@@ -13,7 +13,7 @@ The use and purpose of 5 Distribution functions in the package is examined.
 Finally, the use of seeds in generating pseudorandom numbers is explained.
 
 ## Uploading to GitHub
-As with the Jupyter notebook for the Anscombe Quartet data, I could not upload my Jupyter notebook to GitHub. There seems to be a problem with my accessibility on my Command line mode.
+As with the Jupyter notebook for the Anscombe Quartet data, I could not upload my Jupyter notebook to GitHub earlier on in the project. There appeared to be a problem with my accessibility on my Command line mode.
 
 ## References
 https://docs.scipy.org/doc/numpy-1.15.1/reference/routines.random.html
