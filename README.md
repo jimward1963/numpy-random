@@ -2,7 +2,7 @@
 An investigation of the numpy.random package
 
 The ability to generate random numbers is an important part of any simulation.
-Numpy provides various routines to do this through its numpy.random subpackage. 
+numpy provides various routines to do this through its numpy.random subpackage. 
 In particular it uses an algorithm called the [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister) to generate pseudorandom numbers.
 Computers and even people cannot, or find it difficult to generate pure random numbers. For this reason these types of numbers generated on computers are pseudorandom.
 
